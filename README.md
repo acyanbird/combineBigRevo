@@ -9,7 +9,9 @@ sound horizon 版本合成大西瓜 —— 合成大 Revo ！采用 liyupi 提�
 * 桌子替换
 * 再来一次替换为墨镜
 
-体验网址：
+体验网址：http://revo.cyanbird.me
+
+qq群：591794992
 
 ***
 combine big revo that forked from combine big watermelon. Forked from daxigua https://github.com/liyupi/daxigua. Just a simple modification and I really don't know these codes:(
@@ -18,3 +20,5 @@ combine big revo that forked from combine big watermelon. Forked from daxigua ht
 * Image of ... how to say it in English? BTW it's fruits.
 
 Pull request, issues, advice welcome! 
+
+URL：http://revo.cyanbird.me
