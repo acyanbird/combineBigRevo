@@ -4,10 +4,15 @@ sound horizon 版本合成大西瓜 —— 合成大 Revo ！采用 liyupi 提�
 ### 目前更新
 * 水果图像替换为似非
 * 桌子，背景图，奖杯替换
+* 再来一次切换为墨镜
 
 ### 待更新
-* 再来一次替换为墨镜
-* 无敌版本选项界面
+* 桌子体验修复
+* 下落音乐，结束音乐替换
+* https认证
+* loading gif 如果有可能替换成经线
+* hexo 主页？参考p家版本，果然是hexo嘿嘿
+* supervisor的后台进程监视，今天崩了两次了
 
 体验网址：http://revo.cyanbird.me
 无敌版： http://revo1.cyanbird.me
