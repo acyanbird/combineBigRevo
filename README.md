@@ -15,6 +15,7 @@ sound horizon 版本合成大西瓜 —— 合成大 Revo ！采用 liyupi 提�
 * https认证
 * loading gif 如果有可能替换成经线
 * hexo 主页？参考p家版本，果然是hexo嘿嘿
+* 访问人数&地区显示，不知道到底有多少人在玩的网管是屑！
 
 体验网址：http://revo.cyanbird.me
 无敌版： http://revo1.cyanbird.me
