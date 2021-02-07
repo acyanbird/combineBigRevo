@@ -1,10 +1,13 @@
 # combineRevo
 sound horizon 版本合成大西瓜 —— 合成大 Revo ！采用 liyupi 提供的合成大西瓜方便魔改版本~具体使用方法，方便的工具请查看 https://github.com/liyupi/daxigua 感谢大佬的付出！因为我其实也看不懂这些 codes :(
 
+已经更新，目前使用 https://github.com/Kottalo/combine-big-revo 的工程文件进行更新，此库将存放导出的 web 版本。希望这个开发能够存续下去。
+
 ### 目前更新
 * 水果图像替换为似非
 * 桌子，背景图，奖杯替换
 * 再来一次切换为墨镜
+* supervisor的后台进程监视，然而还是在崩，或许是部署问题
 
 ### 待更新
 * 桌子体验修复
@@ -12,7 +15,6 @@ sound horizon 版本合成大西瓜 —— 合成大 Revo ！采用 liyupi 提�
 * https认证
 * loading gif 如果有可能替换成经线
 * hexo 主页？参考p家版本，果然是hexo嘿嘿
-* supervisor的后台进程监视，今天崩了两次了
 
 体验网址：http://revo.cyanbird.me
 无敌版： http://revo1.cyanbird.me
