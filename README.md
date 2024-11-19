@@ -17,13 +17,16 @@ sound horizon 版本合成大西瓜 —— 合成大 Revo ！采用 liyupi 提�
 * hexo 主页？参考p家版本，果然是hexo嘿嘿
 * 访问人数&地区显示，不知道到底有多少人在玩的网管是屑！
 
-体验网址：http://revo.cyanbird.me
-无敌版： http://revo1.cyanbird.me
+三年后挖出来，结果完全忘了干了什么了……总之先上线了，来玩吧
+https://combine-revo.acyanbird.tech/
 
-qq群：591794992
+qq群：917604415
 
 ***
 combine big revo that forked from combine big watermelon. Forked from daxigua https://github.com/liyupi/daxigua. Just a simple modification and I really don't know these codes:(
+Thanks to @Kottalo for the new version
+
+Now is available at https://combine-revo.acyanbird.tech/ using github page
 
 ### Now changed:
 * Image of ... how to say it in English? BTW it's fruits.
